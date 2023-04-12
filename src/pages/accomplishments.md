@@ -1,0 +1,5 @@
+During my time at Accenture and Meta, I spearheaded the development framework for tiered escalation flows, which has proven to be a game changer in our operations. This framework spans from customer facing roles in Tier 1 to more complex deep dive analysis in Tier 3.
+
+At Tier 2, my team provided technical support on the backend by investigating payout failures and working closely with clients to detect common anomalies to flag to the Tier 3 team. As we moved up to Tier 3, we conducted more extensive analysis on widespread issues such as payment audits for over 2000 customers. 
+
+This accomplishment had a significant impact on our operations, leading to improved customer satisfaction and increased efficiency in our processes. By creating a framework for existing flows where quality assurance was not currently present, we were able to improve our workflows and provide a higher quality service to our clients. Overall, this experience has honed my analytical and problem-solving skills, which I believe will be valuable assets in any future role.

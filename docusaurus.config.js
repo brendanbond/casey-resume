@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Casey Riggs',
-  tagline: 'Technical Writer',
+  tagline: 'Project Manager',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -66,13 +66,13 @@ const config = {
       navbar: {
         title: 'Casey Riggs',
         logo: {
-          alt: 'My Site Logo', // TODO: change site logo
-          src: 'img/logo.svg',
+          alt: 'Casey Riggs Headshot', // TODO: change site logo
+          src: 'img/casey_headshot.png',
         },
         items: [
-          {to: '/resume', label: 'Resume', position: 'left'},
-          {to: '/portfolio', label: 'Portfolio', position: 'left'},
           {to: '/about', label: 'About', position: 'left'},
+          {to: '/accomplishments', label: 'Accomplishments', position: 'left'},
+          {to: '/project-management', label: 'Project Management', position: 'left'},
         ],
       },
       footer: {
@@ -83,12 +83,12 @@ const config = {
             items: [
               {
                 label: 'LinkedIn',
-                to: 'https://linkedin.com/caseyriggs',
+                to: 'https://www.linkedin.com/in/caseyrichardriggs/',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Casey Riggs Built (with <3) with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Casey Riggs. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
